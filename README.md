@@ -16,7 +16,7 @@
 
 本项目将是站在中文语境下整理优秀的个人主页合集。
 
-欢迎广大开发者分享自己的主页项目，参与贡献之前，请阅读[PR](./CONTRIBUTING.md)。
+欢迎广大开发者分享自己的主页项目，参与贡献之前，请阅读 [PR 贡献指南](./CONTRIBUTING.md)。
 
 欢迎所有朋友在这些项目列表中进行冲浪，学习，借鉴，当某个人的项目对你有帮助的时候，请别忘了，给那个项目一个star⭐️。
 
@@ -26,6 +26,11 @@
 
 ## A
 
+- [afc163](https://github.com/afc163)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/afc163.png">
+  </details>
 
 🔝[回到顶部](#目录)
 
@@ -36,6 +41,11 @@
 
 ## C
 
+- [CatchZeng](https://github.com/CatchZeng)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/CatchZeng.png">
+  </details>
 
 🔝[回到顶部](#目录)
 
@@ -76,6 +86,11 @@
 
 ## J
 
+- [jaywcjlove](https://github.com/jaywcjlove)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/jaywcjlove.png">
+  </details>
 
 🔝[回到顶部](#目录)
 
@@ -91,11 +106,26 @@
 
 ## M
 
+- [meetbill](https://github.com/meetbill)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/meetbill.png">
+  </details>
+- [morlay](https://github.com/morlay)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/morlay.png">
+  </details>
 
 🔝[回到顶部](#目录)
 
 ## N
 
+- [nihui](https://github.com/nihui)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/nihui.png">
+  </details>
 
 🔝[回到顶部](#目录)
 
@@ -121,6 +151,11 @@
 
 ## S
 
+- [surmon-china](https://github.com/surmon-china)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/surmon-china.png">
+  </details>
 
 🔝[回到顶部](#目录)
 
@@ -146,11 +181,21 @@
 
 ## X
 
+- [xiaoluoboding](https://github.com/xiaoluoboding)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/xiaoluoboding.png">
+  </details>
 
 🔝[回到顶部](#目录)
 
 ## Y
 
+- [yuebaix](https://github.com/yuebaix)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/yuebaix.png">
+  </details>
 
 🔝[回到顶部](#目录)
 
