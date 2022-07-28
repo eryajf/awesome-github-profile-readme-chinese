@@ -6,7 +6,8 @@
 
 1. 首先你的个人主页要有一两个打眼的亮点，值得欣赏与分享。
 
-2. 然后你需要将你的个人主页做一个完整的截图，浏览器长截图可使用此插件：[FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=zh)，**注意长图仅包含主页内容，不要包含其他活动区域内容**，然后将处理好的图片放置在 `examples` 目录，文件名与个人 `{username}` 保持一致。
+2. 然后你需要将你的个人主页做一个完整的截图，浏览器长截图可使用此插件：[FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=zh)，请使用该插件的区域截图功能，而非截取全部页面。
+**务必注意长图仅包含主页内容(最多可附带Pinned区域)，不要包含其他活动区域内容**，然后将处理好的图片放置在 `examples` 目录，文件名与个人 `{username}` 保持一致。不符合规范的，将拒绝拉取请求。
 
 3. 请自觉按照个人 `{username}` 首字母排序进行填写(如果名字首字非字母，则放到Other目录)，添加内容如下：
 

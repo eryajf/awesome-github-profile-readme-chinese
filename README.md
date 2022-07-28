@@ -32,12 +32,18 @@
     <img src="examples/afc163.png">
   </details>
 
+
+<div align="right">
+
 🔝[回到顶部](#目录)
+</div>
 
 ## B
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## C
 
@@ -45,14 +51,18 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/CatchZeng.png">
-  </details>
+
+<div align="right">  </details>
 
 🔝[回到顶部](#目录)
+</div>
 
 ## D
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## E
 
@@ -66,19 +76,25 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/eryajf.png">
-  </details>
+
+<div align="right">  </details>
 
 🔝[回到顶部](#目录)
+</div>
 
 ## F
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## G
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## H
 
@@ -87,13 +103,17 @@
     <summary>Preview</summary>
     <img src="examples/hoochanlon.png">
   </details>
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## I
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## J
 
@@ -101,19 +121,25 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/jaywcjlove.png">
-  </details>
+
+<div align="right">  </details>
 
 🔝[回到顶部](#目录)
+</div>
 
 ## K
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## L
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## M
 
@@ -126,9 +152,11 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/morlay.png">
-  </details>
+
+<div align="right">  </details>
 
 🔝[回到顶部](#目录)
+</div>
 
 ## N
 
@@ -136,29 +164,39 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/nihui.png">
-  </details>
+
+<div align="right">  </details>
 
 🔝[回到顶部](#目录)
+</div>
 
 ## O
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## P
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## Q
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## R
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## S
 
@@ -166,29 +204,39 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/surmon-china.png">
-  </details>
+
+<div align="right">  </details>
 
 🔝[回到顶部](#目录)
+</div>
 
 ## T
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## U
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## V
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## W
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## X
 
@@ -196,9 +244,11 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/xiaoluoboding.png">
-  </details>
+
+<div align="right">  </details>
 
 🔝[回到顶部](#目录)
+</div>
 
 ## Y
 
@@ -206,16 +256,22 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/yuebaix.png">
-  </details>
+
+<div align="right">  </details>
 
 🔝[回到顶部](#目录)
+</div>
 
 ## Z
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
 
 ## Other
 
+<div align="right">
 
 🔝[回到顶部](#目录)
+</div>
