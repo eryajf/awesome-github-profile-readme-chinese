@@ -4,11 +4,11 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
 [![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-github-profile-readme-chinese)](https://github.com/eryajf/awesome-github-profile-readme-chinese/graphs/contributors)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/awesome-github-profile-readme-chinese.svg)](https://github.com/eryajf/awesome-github-profile-readme-chinese/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-github-profile-readme-chinese)](https://github.com/eryajf/awesome-github-profile-readme-chinese/pulls)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-github-profile-readme-chinese)](https://github.com/eryajf/awesome-github-profile-readme-chinese/stargazers)
 [![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-github-profile-readme-chinese.svg)](https://github.com/eryajf/awesome-github-profile-readme-chinese)
 [![GitHub license](https://img.shields.io/github/license/eryajf/awesome-github-profile-readme-chinese)](https://github.com/eryajf/awesome-github-profile-readme-chinese/blob/main/LICENSE)
+[![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
 
 <p> 🦩 中文区优秀的个人主页搜集 🦩</p>
 
