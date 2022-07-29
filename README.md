@@ -31,6 +31,11 @@
     <summary>Preview</summary>
     <img src="examples/afc163.png">
   </details>
+- [AntoineChn](https://github.com/AntoineChn)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/AntoineChn.png">
+  </details>
 
 
 <div align="right">
@@ -136,6 +141,12 @@
 
 ## L
 
+- [lovebetterworld](https://github.com/lovebetterworld)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/lovebetterworld.png">
+  </details>
+
 <div align="right">
 
 🔝[回到顶部](#目录)
@@ -192,6 +203,12 @@
 </div>
 
 ## R
+
+- [real-jiakai](https://github.com/real-jiakai)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/real-jiakai.png">
+  </details>
 
 <div align="right">
 
