@@ -149,6 +149,11 @@
     <summary>Preview</summary>
     <img src="examples/lovebetterworld.png">
   </details>
+- [luoxuhai](https://github.com/luoxuhai)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/luoxuhai.png">
+  </details>
 
 <div align="right">
 
