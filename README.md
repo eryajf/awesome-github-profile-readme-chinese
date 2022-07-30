@@ -106,6 +106,12 @@
 
 ## H
 
+- [HenryJi529](https://github.com/HenryJi529)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/HenryJi529.png">
+  </details>
+
 - [hoochanlon](https://github.com/hoochanlon)
   <details>
     <summary>Preview</summary>
@@ -149,6 +155,11 @@
     <summary>Preview</summary>
     <img src="examples/lovebetterworld.png">
   </details>
+- [luoxuhai](https://github.com/luoxuhai)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/luoxuhai.png">
+  </details>
 
 <div align="right">
 
@@ -161,6 +172,11 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/meetbill.png">
+  </details>
+- [mophia](https://github.com/mophia)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/mophia.png">
   </details>
 - [morlay](https://github.com/morlay)
   <details>
@@ -283,6 +299,11 @@
     <summary>Preview</summary>
     <img src="examples/xiaoluoboding.png">
 
+- [xJoyLu](https://github.com/xJoyLu)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/xJoyLu.png">
+
 <div align="right">  </details>
 
 🔝[回到顶部](#目录)
@@ -301,6 +322,12 @@
 </div>
 
 ## Z
+
+- [zkeq](https://github.com/zkeq)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/zkeq.png">
+  </details>
 
 <div align="right">
 
