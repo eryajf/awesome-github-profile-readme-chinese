@@ -400,6 +400,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/iwangchuanli">
+            <img src="https://avatars.githubusercontent.com/u/39828165?v=4" width="50;" alt="iwangchuanli"/>
+            <br />
+            <sub><b>WangChuanli</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/zkeq">
             <img src="https://avatars.githubusercontent.com/u/62864752?v=4" width="50;" alt="zkeq"/>
             <br />
@@ -411,6 +418,13 @@
             <img src="https://avatars.githubusercontent.com/u/74151622?v=4" width="50;" alt="xJoyLu"/>
             <br />
             <sub><b>卢东东</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/anzhihe">
+            <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="50;" alt="anzhihe"/>
+            <br />
+            <sub><b>安志合</b></sub>
         </a>
     </td>
     <td align="center">
