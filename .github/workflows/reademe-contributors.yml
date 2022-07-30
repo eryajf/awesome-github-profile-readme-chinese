@@ -14,3 +14,6 @@ jobs:
         uses: akhilmhdh/contributors-readme-action@v2.3.4
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        with:
+          image_size: 50
+          columns_per_row: 12
