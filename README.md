@@ -410,6 +410,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hugh-zhan9">
+            <img src="https://avatars.githubusercontent.com/u/49809663?v=4" width="50;" alt="hugh-zhan9"/>
+            <br />
+            <sub><b>晚青</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/WOSHIZHAZHA120">
             <img src="https://avatars.githubusercontent.com/u/52521836?v=4" width="50;" alt="WOSHIZHAZHA120"/>
             <br />
