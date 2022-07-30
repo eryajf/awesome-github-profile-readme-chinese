@@ -75,11 +75,12 @@
 ## E
 
 - [erbanku](https://github.com/erbanku)
+  
   <details>
     <summary>Preview</summary>
     <img src="examples/erbanku.jpeg">
-  </details>
-
+</details>
+  
 - [eryajf](https://github.com/eryajf)
   <details>
     <summary>Preview</summary>
@@ -113,12 +114,19 @@
   </details>
 
 - [hoochanlon](https://github.com/hoochanlon)
+
   <details>
     <summary>Preview</summary>
     <img src="examples/hoochanlon.png">
   </details>
-<div align="right">
+- [hugh-zhan9](https://github.com/hugh-zhan9)
+  
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/hugh-zhan9.png">
+  </details>
 
+<div align="right">
 🔝[回到顶部](#目录)
 </div>
 
