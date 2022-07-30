@@ -106,6 +106,12 @@
 
 ## H
 
+- [HenryJi529](https://github.com/HenryJi529)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/HenryJi529.png">
+  </details>
+
 - [hoochanlon](https://github.com/hoochanlon)
   <details>
     <summary>Preview</summary>
