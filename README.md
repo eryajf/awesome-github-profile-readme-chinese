@@ -39,7 +39,11 @@
     <summary>Preview</summary>
     <img src="examples/AntoineChn.png">
   </details>
-
+- [anzhihe](https://github.com/anzhihe)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/anzhihe.png">
+  </details>
 
 <div align="right">
 
