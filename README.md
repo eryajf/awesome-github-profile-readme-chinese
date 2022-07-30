@@ -39,7 +39,11 @@
     <summary>Preview</summary>
     <img src="examples/AntoineChn.png">
   </details>
-
+- [anzhihe](https://github.com/anzhihe)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/anzhihe.png">
+  </details>
 
 <div align="right">
 
@@ -75,11 +79,12 @@
 ## E
 
 - [erbanku](https://github.com/erbanku)
+  
   <details>
     <summary>Preview</summary>
     <img src="examples/erbanku.jpeg">
-  </details>
-
+</details>
+  
 - [eryajf](https://github.com/eryajf)
   <details>
     <summary>Preview</summary>
@@ -113,12 +118,19 @@
   </details>
 
 - [hoochanlon](https://github.com/hoochanlon)
+
   <details>
     <summary>Preview</summary>
     <img src="examples/hoochanlon.png">
   </details>
-<div align="right">
+- [hugh-zhan9](https://github.com/hugh-zhan9)
+  
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/hugh-zhan9.png">
+  </details>
 
+<div align="right">
 🔝[回到顶部](#目录)
 </div>
 
@@ -286,6 +298,11 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/WOSHIZHAZHA120.png">
+  
+- [iwangchuanli](https://github.com/iwangchuanli)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/iwangchuanli.png">
 
 <div align="right">
 
@@ -383,6 +400,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/iwangchuanli">
+            <img src="https://avatars.githubusercontent.com/u/39828165?v=4" width="50;" alt="iwangchuanli"/>
+            <br />
+            <sub><b>WangChuanli</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/zkeq">
             <img src="https://avatars.githubusercontent.com/u/62864752?v=4" width="50;" alt="zkeq"/>
             <br />
@@ -394,6 +418,20 @@
             <img src="https://avatars.githubusercontent.com/u/74151622?v=4" width="50;" alt="xJoyLu"/>
             <br />
             <sub><b>卢东东</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/anzhihe">
+            <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="50;" alt="anzhihe"/>
+            <br />
+            <sub><b>安志合</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hugh-zhan9">
+            <img src="https://avatars.githubusercontent.com/u/49809663?v=4" width="50;" alt="hugh-zhan9"/>
+            <br />
+            <sub><b>晚青</b></sub>
         </a>
     </td>
     <td align="center">
