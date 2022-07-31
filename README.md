@@ -257,7 +257,7 @@
 - [sun0225SUN](https://github.com/sun0225SUN)
   <details>
     <summary>Preview</summary>
-    <img src="examples/sun0225SUN.png">
+    <img src="examples/sun0225SUN.jpg">
   </details>
 
 - [surmon-china](https://github.com/surmon-china)
