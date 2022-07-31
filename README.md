@@ -254,6 +254,14 @@
 
 ## S
 
+- [sun0225SUN](https://github.com/sun0225SUN)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/sun0225SUN.jpg">
+
+<div align="right">  </details>
+
+
 - [surmon-china](https://github.com/surmon-china)
   <details>
     <summary>Preview</summary>
