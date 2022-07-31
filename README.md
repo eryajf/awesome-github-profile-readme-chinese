@@ -437,13 +437,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/sun0225SUN">
-            <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50;" alt="sun0225SUN"/>
-            <br />
-            <sub><b>小孙同学</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/hugh-zhan9">
             <img src="https://avatars.githubusercontent.com/u/49809663?v=4" width="50;" alt="hugh-zhan9"/>
             <br />
