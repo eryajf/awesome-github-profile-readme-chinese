@@ -118,19 +118,19 @@
   </details>
 
 - [hoochanlon](https://github.com/hoochanlon)
-
   <details>
     <summary>Preview</summary>
     <img src="examples/hoochanlon.png">
   </details>
+  
 - [hugh-zhan9](https://github.com/hugh-zhan9)
-
   <details>
     <summary>Preview</summary>
     <img src="examples/hugh-zhan9.png">
   </details>
 
 <div align="right">
+
 🔝[回到顶部](#目录)
 </div>
 
@@ -254,12 +254,19 @@
 
 ## S
 
+- [sun0225SUN](https://github.com/sun0225SUN)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/sun0225SUN.jpg">
+  </details>
+
 - [surmon-china](https://github.com/surmon-china)
   <details>
     <summary>Preview</summary>
     <img src="examples/surmon-china.png">
-
-<div align="right">  </details>
+  </details>
+  
+<div align="right">
 
 🔝[回到顶部](#目录)
 </div>
