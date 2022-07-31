@@ -470,13 +470,6 @@
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hua1995116">
-            <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50;" alt="hua1995116"/>
-            <br />
-            <sub><b>蓝色的秋风</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
