@@ -403,6 +403,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/yesmore">
+            <img src="https://avatars.githubusercontent.com/u/89140804?v=4" width="50;" alt="yesmore"/>
+            <br />
+            <sub><b>2 Meow </b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yzqdev">
+            <img src="https://avatars.githubusercontent.com/u/20037151?v=4" width="50;" alt="yzqdev"/>
+            <br />
+            <sub><b>Anderson</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/erbanku">
             <img src="https://avatars.githubusercontent.com/u/79493862?v=4" width="50;" alt="erbanku"/>
             <br />
@@ -443,7 +457,8 @@
             <br />
             <sub><b>Zkeq</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/xJoyLu">
             <img src="https://avatars.githubusercontent.com/u/74151622?v=4" width="50;" alt="xJoyLu"/>
@@ -457,8 +472,7 @@
             <br />
             <sub><b>安志合</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sun0225SUN">
             <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50;" alt="sun0225SUN"/>
