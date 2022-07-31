@@ -118,19 +118,26 @@
   </details>
 
 - [hoochanlon](https://github.com/hoochanlon)
-
   <details>
     <summary>Preview</summary>
     <img src="examples/hoochanlon.png">
   </details>
+  
 - [hugh-zhan9](https://github.com/hugh-zhan9)
-
   <details>
     <summary>Preview</summary>
     <img src="examples/hugh-zhan9.png">
   </details>
 
+- [hua1995116](https://github.com/hua1995116)
+
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/hua1995116.png">
+  </details>
+
 <div align="right">
+
 🔝[回到顶部](#目录)
 </div>
 
@@ -254,12 +261,19 @@
 
 ## S
 
+- [sun0225SUN](https://github.com/sun0225SUN)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/sun0225SUN.jpg">
+  </details>
+
 - [surmon-china](https://github.com/surmon-china)
   <details>
     <summary>Preview</summary>
     <img src="examples/surmon-china.png">
-
-<div align="right">  </details>
+  </details>
+  
+<div align="right">
 
 🔝[回到顶部](#目录)
 </div>
@@ -422,6 +436,20 @@
         </a>
     </td></tr>
 <tr>
+    <td align="center">
+        <a href="https://github.com/anzhihe">
+            <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="50;" alt="anzhihe"/>
+            <br />
+            <sub><b>安志合</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sun0225SUN">
+            <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50;" alt="sun0225SUN"/>
+            <br />
+            <sub><b>小孙同学</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/hugh-zhan9">
             <img src="https://avatars.githubusercontent.com/u/49809663?v=4" width="50;" alt="hugh-zhan9"/>
