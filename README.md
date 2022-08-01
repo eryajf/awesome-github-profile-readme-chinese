@@ -488,10 +488,24 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/solmp">
+            <img src="https://avatars.githubusercontent.com/u/70046106?v=4" width="50;" alt="solmp"/>
+            <br />
+            <sub><b>Sol</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/xJoyLu">
             <img src="https://avatars.githubusercontent.com/u/74151622?v=4" width="50;" alt="xJoyLu"/>
             <br />
             <sub><b>卢东东</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/SummerSec">
+            <img src="https://avatars.githubusercontent.com/u/47944478?v=4" width="50;" alt="SummerSec"/>
+            <br />
+            <sub><b>夏天</b></sub>
         </a>
     </td>
     <td align="center">
@@ -528,7 +542,8 @@
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hua1995116">
             <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50;" alt="hua1995116"/>
