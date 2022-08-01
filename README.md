@@ -234,6 +234,12 @@
 
 ## P
 
+- [Peachfart](https://github.com/Peachfart)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/Peachfart.PNG">
+  </details>
+
 <div align="right">
 
 🔝[回到顶部](#目录)
@@ -352,6 +358,12 @@
 
 ## X
 
+- [Xxianglei](https://github.com/Xxianglei)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/Xxianglei.png">
+  </details>
+  
 - [xiaoluoboding](https://github.com/xiaoluoboding)
   <details>
     <summary>Preview</summary>
@@ -361,6 +373,11 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/xJoyLu.png">
+
+- [xqbumu](https://github.com/xqbumu)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/xqbumu.png">
 
 <div align="right">  </details>
 
@@ -433,6 +450,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Xxianglei">
+            <img src="https://avatars.githubusercontent.com/u/26300154?v=4" width="50;" alt="Xxianglei"/>
+            <br />
+            <sub><b>Alex</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/yzqdev">
             <img src="https://avatars.githubusercontent.com/u/20037151?v=4" width="50;" alt="yzqdev"/>
             <br />
@@ -461,12 +485,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/reaink">
+            <img src="https://avatars.githubusercontent.com/u/45023042?v=4" width="50;" alt="reaink"/>
+            <br />
+            <sub><b>Rea</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mophia">
             <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="50;" alt="mophia"/>
             <br />
             <sub><b>Vogue Mophia</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/iwangchuanli">
             <img src="https://avatars.githubusercontent.com/u/39828165?v=4" width="50;" alt="iwangchuanli"/>
@@ -480,8 +512,7 @@
             <br />
             <sub><b>Zkeq</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/redhat123456">
             <img src="https://avatars.githubusercontent.com/u/57751257?v=4" width="50;" alt="redhat123456"/>
@@ -494,6 +525,13 @@
             <img src="https://avatars.githubusercontent.com/u/70046106?v=4" width="50;" alt="solmp"/>
             <br />
             <sub><b>Sol</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xqbumu">
+            <img src="https://avatars.githubusercontent.com/u/6274534?v=4" width="50;" alt="xqbumu"/>
+            <br />
+            <sub><b>卜木</b></sub>
         </a>
     </td>
     <td align="center">
@@ -523,7 +561,8 @@
             <br />
             <sub><b>小孙同学</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hugh-zhan9">
             <img src="https://avatars.githubusercontent.com/u/49809663?v=4" width="50;" alt="hugh-zhan9"/>
@@ -544,8 +583,7 @@
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hua1995116">
             <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50;" alt="hua1995116"/>
