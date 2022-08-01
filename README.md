@@ -471,7 +471,7 @@
         <a href="https://github.com/redhat123456">
             <img src="https://avatars.githubusercontent.com/u/57751257?v=4" width="50;" alt="redhat123456"/>
             <br />
-            <sub><b>redhat123456</b></sub>
+            <sub><b>Redhat123456</b></sub>
         </a>
     </td>
     <td align="center">
@@ -479,6 +479,13 @@
             <img src="https://avatars.githubusercontent.com/u/74151622?v=4" width="50;" alt="xJoyLu"/>
             <br />
             <sub><b>卢东东</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/SummerSec">
+            <img src="https://avatars.githubusercontent.com/u/47944478?v=4" width="50;" alt="SummerSec"/>
+            <br />
+            <sub><b>夏天</b></sub>
         </a>
     </td>
     <td align="center">
