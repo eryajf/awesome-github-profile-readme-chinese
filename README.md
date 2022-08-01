@@ -535,13 +535,6 @@
             <br />
             <sub><b>蓝色的秋风</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Peachfart">
-            <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="50;" alt="Peachfart"/>
-            <br />
-            <sub><b>徐同学(Peachfart)</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
