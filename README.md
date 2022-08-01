@@ -528,6 +528,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/xqbumu">
+            <img src="https://avatars.githubusercontent.com/u/6274534?v=4" width="50;" alt="xqbumu"/>
+            <br />
+            <sub><b>卜木</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/xJoyLu">
             <img src="https://avatars.githubusercontent.com/u/74151622?v=4" width="50;" alt="xJoyLu"/>
             <br />
@@ -554,6 +561,14 @@
             <br />
             <sub><b>小孙同学</b></sub>
         </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Peachfart">
+            <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="50;" alt="Peachfart"/>
+            <br />
+            <sub><b>徐同学</b></sub>
+        </a>
     </td>
     <td align="center">
         <a href="https://github.com/hugh-zhan9">
@@ -561,8 +576,7 @@
             <br />
             <sub><b>晚青</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/WOSHIZHAZHA120">
             <img src="https://avatars.githubusercontent.com/u/52521836?v=4" width="50;" alt="WOSHIZHAZHA120"/>
