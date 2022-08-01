@@ -1,5 +1,4 @@
-name: Generate a list of contributors
-
+name: 自动生成贡献者列表
 on:
   push:
     branches:
