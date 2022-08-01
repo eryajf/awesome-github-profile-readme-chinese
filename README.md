@@ -368,6 +368,11 @@
     <summary>Preview</summary>
     <img src="examples/xJoyLu.png">
 
+- [xqbumu](https://github.com/xqbumu)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/xqbumu.png">
+
 <div align="right">  </details>
 
 🔝[回到顶部](#目录)
