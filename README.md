@@ -286,6 +286,12 @@
     <summary>Preview</summary>
     <img src="examples/surmon-china.png">
   </details>
+
+- [solmp](https://github.com/solmp)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/solmp.png">
+  </details>
   
 <div align="right">
 
