@@ -4,18 +4,12 @@ on:
     # Run Image Actions when JPG, JPEG, PNG or WebP files are added or changed.
     # See https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#onpushpull_requestpaths for reference.
     paths:
-      - '**.jpg'
-      - '**.jpeg'
-      - '**.png'
-      - '**.webp'
+      - 'examples/**'
   push:
     branches:
       - main
     paths:
-      - '**.jpg'
-      - '**.jpeg'
-      - '**.png'
-      - '**.webp'
+      - 'examples/**'
   workflow_dispatch:
 jobs:
   build:
