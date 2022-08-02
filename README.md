@@ -596,13 +596,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/LovesAsuna">
-            <img src="https://avatars.githubusercontent.com/u/32810896?v=4" width="50;" alt="LovesAsuna"/>
-            <br />
-            <sub><b>梦曦·花已落</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/WOSHIZHAZHA120">
             <img src="https://avatars.githubusercontent.com/u/52521836?v=4" width="50;" alt="WOSHIZHAZHA120"/>
             <br />
