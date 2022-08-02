@@ -13,6 +13,10 @@ jobs:
   build:
     name: calibreapp/image-actions
     runs-on: ubuntu-latest
+    if: |
+      github.repository == 'eryajf/awesome-github-profile-readme-chinese' &&
+      (github.event_name != 'pull_request' ||
+       github.event.pull_request.head.repo.full_name == github.repository)
     steps:
       - name: Checkout Branch
         uses: actions/checkout@v2
