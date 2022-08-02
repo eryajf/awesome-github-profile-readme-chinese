@@ -506,10 +506,25 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/04zhujunjie">
+            <img src="https://avatars.githubusercontent.com/u/12287041?v=4" width="50;" alt="04zhujunjie"/>
+            <br />
+            <sub><b>Jeking</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/reaink">
             <img src="https://avatars.githubusercontent.com/u/45023042?v=4" width="50;" alt="reaink"/>
             <br />
             <sub><b>Rea</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/teamssix">
+            <img src="https://avatars.githubusercontent.com/u/49087564?v=4" width="50;" alt="teamssix"/>
+            <br />
+            <sub><b>TeamsSix</b></sub>
         </a>
     </td>
     <td align="center">
@@ -518,8 +533,7 @@
             <br />
             <sub><b>Vogue Mophia</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/iwangchuanli">
             <img src="https://avatars.githubusercontent.com/u/39828165?v=4" width="50;" alt="iwangchuanli"/>
@@ -568,7 +582,8 @@
             <br />
             <sub><b>卢东东</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SummerSec">
             <img src="https://avatars.githubusercontent.com/u/47944478?v=4" width="50;" alt="SummerSec"/>
@@ -582,8 +597,7 @@
             <br />
             <sub><b>安志合</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sun0225SUN">
             <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50;" alt="sun0225SUN"/>
