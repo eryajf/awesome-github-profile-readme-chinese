@@ -179,6 +179,11 @@
     <summary>Preview</summary>
     <img src="examples/luoxuhai.png">
   </details>
+- [LovesAsuna](https://github.com/LovesAsuna)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/LovesAsuna.png">
+  </details>
 
 <div align="right">
 
