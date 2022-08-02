@@ -1,4 +1,4 @@
-<!-- 提交信息应遵循这个规范：`feat: Added [your username] profile` -->
+<!-- 提交信息应遵循这个规范：`🥳 feat: Added [your username] profile` -->
 
 **在提出此拉取请求时，我确认了以下几点（请复选框）：**
 
