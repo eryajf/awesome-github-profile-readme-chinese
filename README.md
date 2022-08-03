@@ -519,13 +519,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/cage1016">
+            <img src="https://avatars.githubusercontent.com/u/678607?v=4" width="50;" alt="cage1016"/>
+            <br />
+            <sub><b>Kai-Chu Chung</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/reaink">
             <img src="https://avatars.githubusercontent.com/u/45023042?v=4" width="50;" alt="reaink"/>
             <br />
             <sub><b>Rea</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/teamssix">
             <img src="https://avatars.githubusercontent.com/u/49087564?v=4" width="50;" alt="teamssix"/>
@@ -581,15 +588,15 @@
             <br />
             <sub><b>卜木</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/xJoyLu">
             <img src="https://avatars.githubusercontent.com/u/74151622?v=4" width="50;" alt="xJoyLu"/>
             <br />
             <sub><b>卢东东</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SummerSec">
             <img src="https://avatars.githubusercontent.com/u/47944478?v=4" width="50;" alt="SummerSec"/>
@@ -645,7 +652,8 @@
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hua1995116">
             <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50;" alt="hua1995116"/>
