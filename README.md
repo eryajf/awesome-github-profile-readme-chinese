@@ -156,6 +156,12 @@
 
 ## J
 
+- [JarryShaw](https://github.com/JarryShaw)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/JarryShaw.png">
+  </details>
+
 - [jaywcjlove](https://github.com/jaywcjlove)
   <details>
     <summary>Preview</summary>
@@ -380,7 +386,7 @@
     <summary>Preview</summary>
     <img src="examples/Xxianglei.png">
   </details>
-  
+
 - [xiaoluoboding](https://github.com/xiaoluoboding)
   <details>
     <summary>Preview</summary>
