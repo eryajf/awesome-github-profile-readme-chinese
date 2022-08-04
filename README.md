@@ -538,6 +538,13 @@
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/Leecason">
+            <img src="https://avatars.githubusercontent.com/u/17562078?v=4" width="50;" alt="Leecason"/>
+            <br />
+            <sub><b>Jiaxun Li</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/cage1016">
             <img src="https://avatars.githubusercontent.com/u/678607?v=4" width="50;" alt="cage1016"/>
             <br />
@@ -592,15 +599,15 @@
             <br />
             <sub><b>Sol</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/yongxinz">
             <img src="https://avatars.githubusercontent.com/u/13905325?v=4" width="50;" alt="yongxinz"/>
             <br />
             <sub><b>Yongxinz</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/xqbumu">
             <img src="https://avatars.githubusercontent.com/u/6274534?v=4" width="50;" alt="xqbumu"/>
@@ -656,15 +663,15 @@
             <br />
             <sub><b>梦曦·花已落</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/WOSHIZHAZHA120">
             <img src="https://avatars.githubusercontent.com/u/52521836?v=4" width="50;" alt="WOSHIZHAZHA120"/>
             <br />
             <sub><b>渣渣120</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars.githubusercontent.com/u/35732922?v=4" width="50;" alt="hoochanlon"/>
