@@ -82,6 +82,12 @@
     <img src="examples/danerlt.png">
   </details>
 
+- [dextermallo](https://github.com/dextermallo)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/dextermallo.png">
+  </details>
+
 <div align="right">
 
 🔝[回到顶部](#目录)
