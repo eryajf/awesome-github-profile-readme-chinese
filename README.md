@@ -545,6 +545,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/dextermallo">
+            <img src="https://avatars.githubusercontent.com/u/29012607?v=4" width="50;" alt="dextermallo"/>
+            <br />
+            <sub><b>Dexter</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/HenryJi529">
             <img src="https://avatars.githubusercontent.com/u/41288155?v=4" width="50;" alt="HenryJi529"/>
             <br />
@@ -557,15 +564,15 @@
             <br />
             <sub><b>Jack Deng</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/JarryShaw">
             <img src="https://avatars.githubusercontent.com/u/15666417?v=4" width="50;" alt="JarryShaw"/>
             <br />
             <sub><b>Jarry Shaw</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/04zhujunjie">
             <img src="https://avatars.githubusercontent.com/u/12287041?v=4" width="50;" alt="04zhujunjie"/>
@@ -621,15 +628,22 @@
             <br />
             <sub><b>Zkeq</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/danerlt">
             <img src="https://avatars.githubusercontent.com/u/14197717?v=4" width="50;" alt="danerlt"/>
             <br />
             <sub><b>Danerlt</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/StellarisW">
+            <img src="https://avatars.githubusercontent.com/u/46246823?v=4" width="50;" alt="StellarisW"/>
+            <br />
+            <sub><b>Lengcharles</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/liugezhou">
             <img src="https://avatars.githubusercontent.com/u/29797703?v=4" width="50;" alt="liugezhou"/>
@@ -678,7 +692,8 @@
             <br />
             <sub><b>夏天</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="50;" alt="anzhihe"/>
@@ -692,8 +707,7 @@
             <br />
             <sub><b>小孙同学</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Peachfart">
             <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="50;" alt="Peachfart"/>
