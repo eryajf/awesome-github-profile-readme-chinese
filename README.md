@@ -316,6 +316,13 @@
 
 ## S
 
+- [StellarisW](https://github.com/StellarisW)
+
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/StellarisW.png">
+  </details>
+
 - [SummerSec](https://github.com/SummerSec)
 
   <details>
@@ -338,6 +345,7 @@
   </details>
 
 - [solmp](https://github.com/solmp)
+  
   <details>
     <summary>Preview</summary>
     <img src="examples/solmp.png">
