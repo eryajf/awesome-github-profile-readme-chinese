@@ -538,20 +538,27 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/JackTheMico">
+            <img src="https://avatars.githubusercontent.com/u/19216598?v=4" width="50;" alt="JackTheMico"/>
+            <br />
+            <sub><b>Jack Deng</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/JarryShaw">
             <img src="https://avatars.githubusercontent.com/u/15666417?v=4" width="50;" alt="JarryShaw"/>
             <br />
             <sub><b>Jarry Shaw</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/04zhujunjie">
             <img src="https://avatars.githubusercontent.com/u/12287041?v=4" width="50;" alt="04zhujunjie"/>
             <br />
             <sub><b>Jeking</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Leecason">
             <img src="https://avatars.githubusercontent.com/u/17562078?v=4" width="50;" alt="Leecason"/>
@@ -607,15 +614,15 @@
             <br />
             <sub><b>Danerlt</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/liugezhou">
             <img src="https://avatars.githubusercontent.com/u/29797703?v=4" width="50;" alt="liugezhou"/>
             <br />
             <sub><b>Liugezhou</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/redhat123456">
             <img src="https://avatars.githubusercontent.com/u/57751257?v=4" width="50;" alt="redhat123456"/>
@@ -671,15 +678,15 @@
             <br />
             <sub><b>小孙同学</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Peachfart">
             <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="50;" alt="Peachfart"/>
             <br />
             <sub><b>徐同学</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hugh-zhan9">
             <img src="https://avatars.githubusercontent.com/u/49809663?v=4" width="50;" alt="hugh-zhan9"/>
