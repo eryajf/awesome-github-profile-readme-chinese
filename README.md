@@ -190,6 +190,12 @@
 
 ## K
 
+- [KernelErr](https://github.com/KernelErr)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/KernelErr.png">
+  </details>
+
 <div align="right">
 
 🔝[回到顶部](#目录)
