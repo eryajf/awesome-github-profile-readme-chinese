@@ -606,10 +606,24 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Longhao-Chen">
+            <img src="https://avatars.githubusercontent.com/u/35413451?v=4" width="50;" alt="Longhao-Chen"/>
+            <br />
+            <sub><b>Longhao.Chen</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/reaink">
             <img src="https://avatars.githubusercontent.com/u/45023042?v=4" width="50;" alt="reaink"/>
             <br />
             <sub><b>Rea</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/KernelErr">
+            <img src="https://avatars.githubusercontent.com/u/45716019?v=4" width="50;" alt="KernelErr"/>
+            <br />
+            <sub><b>Rui Li</b></sub>
         </a>
     </td>
     <td align="center">
@@ -625,7 +639,8 @@
             <br />
             <sub><b>Vogue Mophia</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/iwangchuanli">
             <img src="https://avatars.githubusercontent.com/u/39828165?v=4" width="50;" alt="iwangchuanli"/>
@@ -639,8 +654,7 @@
             <br />
             <sub><b>Zkeq</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/danerlt">
             <img src="https://avatars.githubusercontent.com/u/14197717?v=4" width="50;" alt="danerlt"/>
@@ -689,7 +703,8 @@
             <br />
             <sub><b>卜木</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/xJoyLu">
             <img src="https://avatars.githubusercontent.com/u/74151622?v=4" width="50;" alt="xJoyLu"/>
@@ -703,8 +718,7 @@
             <br />
             <sub><b>夏天</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="50;" alt="anzhihe"/>
@@ -753,7 +767,8 @@
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hua1995116">
             <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50;" alt="hua1995116"/>
