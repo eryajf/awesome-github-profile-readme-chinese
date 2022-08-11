@@ -203,6 +203,11 @@
 
 ## L
 
+- [Longhao-Chen](https://github.com/Longhao-Chen)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/Longhao-Chen.png">
+  </details>
 - [lovebetterworld](https://github.com/lovebetterworld)
   <details>
     <summary>Preview</summary>
