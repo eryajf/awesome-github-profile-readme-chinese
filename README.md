@@ -300,6 +300,12 @@
     <img src="examples/Peachfart.PNG">
   </details>
 
+- [pseudoyu](https://github.com/pseudoyu)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/pseudoyu.png">
+  </details>
+
 <div align="right">
 
 🔝[回到顶部](#目录)
