@@ -182,8 +182,14 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/jaywcjlove.png">
+  </details>
 
-<div align="right">  </details>
+- [JesseAtSZ](https://github.com/JesseAtSZ)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/JesseAtSZ.png">
+  </details>
+<div align="right">  
 
 🔝[回到顶部](#目录)
 </div>
