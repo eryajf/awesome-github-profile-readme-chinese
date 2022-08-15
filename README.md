@@ -604,6 +604,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/JesseAtSZ">
+            <img src="https://avatars.githubusercontent.com/u/35264598?v=4" width="50;" alt="JesseAtSZ"/>
+            <br />
+            <sub><b>Jesse</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Leecason">
             <img src="https://avatars.githubusercontent.com/u/17562078?v=4" width="50;" alt="Leecason"/>
             <br />
@@ -644,20 +651,27 @@
             <br />
             <sub><b>TeamsSix</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mophia">
             <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="50;" alt="mophia"/>
             <br />
             <sub><b>Vogue Mophia</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/iwangchuanli">
             <img src="https://avatars.githubusercontent.com/u/39828165?v=4" width="50;" alt="iwangchuanli"/>
             <br />
             <sub><b>WangChuanli</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/pseudoyu">
+            <img src="https://avatars.githubusercontent.com/u/69753389?v=4" width="50;" alt="pseudoyu"/>
+            <br />
+            <sub><b>Yu ZHANG</b></sub>
         </a>
     </td>
     <td align="center">
@@ -701,7 +715,8 @@
             <br />
             <sub><b>Sol</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/yongxinz">
             <img src="https://avatars.githubusercontent.com/u/13905325?v=4" width="50;" alt="yongxinz"/>
@@ -715,8 +730,7 @@
             <br />
             <sub><b>卜木</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/xJoyLu">
             <img src="https://avatars.githubusercontent.com/u/74151622?v=4" width="50;" alt="xJoyLu"/>
@@ -765,7 +779,8 @@
             <br />
             <sub><b>梦曦·花已落</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/WOSHIZHAZHA120">
             <img src="https://avatars.githubusercontent.com/u/52521836?v=4" width="50;" alt="WOSHIZHAZHA120"/>
@@ -779,8 +794,7 @@
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hua1995116">
             <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50;" alt="hua1995116"/>
