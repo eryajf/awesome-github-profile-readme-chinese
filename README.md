@@ -511,7 +511,16 @@
     <summary>Preview</summary>
     <img src="examples/04zhujunjie.png">
   </details>
+
+- [bin](https://github.com/17661977890)
+  <details>
+    <summary>Preview</summary>
+    <img src="../awesome-github-profile-readme-chinese/examples/17661977890.png">
+  </details>
+
 <div align="right">
+
+
 
 🔝[回到顶部](#目录)
 </div>
