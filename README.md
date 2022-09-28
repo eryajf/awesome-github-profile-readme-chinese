@@ -696,6 +696,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/17661977890">
+            <img src="https://avatars.githubusercontent.com/u/43638153?v=4" width="50;" alt="17661977890"/>
+            <br />
+            <sub><b>Bin</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/danerlt">
             <img src="https://avatars.githubusercontent.com/u/14197717?v=4" width="50;" alt="danerlt"/>
             <br />
@@ -710,12 +717,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/leryn1122">
+            <img src="https://avatars.githubusercontent.com/u/77315435?v=4" width="50;" alt="leryn1122"/>
+            <br />
+            <sub><b>leryn1122</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/liugezhou">
             <img src="https://avatars.githubusercontent.com/u/29797703?v=4" width="50;" alt="liugezhou"/>
             <br />
             <sub><b>Liugezhou</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/redhat123456">
             <img src="https://avatars.githubusercontent.com/u/57751257?v=4" width="50;" alt="redhat123456"/>
@@ -729,8 +744,7 @@
             <br />
             <sub><b>Sol</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/yongxinz">
             <img src="https://avatars.githubusercontent.com/u/13905325?v=4" width="50;" alt="yongxinz"/>
@@ -779,7 +793,8 @@
             <br />
             <sub><b>徐同学</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hugh-zhan9">
             <img src="https://avatars.githubusercontent.com/u/49809663?v=4" width="50;" alt="hugh-zhan9"/>
@@ -793,8 +808,7 @@
             <br />
             <sub><b>梦曦·花已落</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/WOSHIZHAZHA120">
             <img src="https://avatars.githubusercontent.com/u/52521836?v=4" width="50;" alt="WOSHIZHAZHA120"/>
