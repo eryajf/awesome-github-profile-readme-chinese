@@ -239,6 +239,11 @@
     <summary>Preview</summary>
     <img src="examples/liugezhou.png">
   </details>
+- [leryn1122](https://github.com/leryn1122)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/leryn1122.png">
+  </details>
 
 <div align="right">
 
