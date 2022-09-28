@@ -720,7 +720,7 @@
         <a href="https://github.com/leryn1122">
             <img src="https://avatars.githubusercontent.com/u/77315435?v=4" width="50;" alt="leryn1122"/>
             <br />
-            <sub><b>leryn1122</b></sub>
+            <sub><b>Leryn1122</b></sub>
         </a>
     </td>
     <td align="center">
