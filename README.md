@@ -53,6 +53,12 @@
 
 ## B
 
+- [bebee4java](https://github.com/bebee4java)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/bebee4java.png">
+  </details>
+
 <div align="right">
 
 🔝[回到顶部](#目录)
@@ -71,7 +77,8 @@
     <summary>Preview</summary>
     <img src="examples/CatchZeng.png">
 
-<div align="right">  </details>
+<div align="right"> 
+
 🔝[回到顶部](#目录)
 </div>
 
@@ -821,6 +828,13 @@
             <img src="https://avatars.githubusercontent.com/u/35732922?v=4" width="50;" alt="hoochanlon"/>
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bebee4java">
+            <img src="https://avatars.githubusercontent.com/u/20768390?v=4" width="50;" alt="bebee4java"/>
+            <br />
+            <sub><b>爪哇蜂</b></sub>
         </a>
     </td>
     <td align="center">
