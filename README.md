@@ -524,6 +524,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/EvanHsieh0415">
+            <img src="https://avatars.githubusercontent.com/u/74277414?v=4" width="50;" alt="EvanHsieh0415"/>
+            <br />
+            <sub><b>Mango Jelly Pudding</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/yesmore">
             <img src="https://avatars.githubusercontent.com/u/89140804?v=4" width="50;" alt="yesmore"/>
             <br />
@@ -571,15 +578,15 @@
             <br />
             <sub><b>Henry Ji</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/JackTheMico">
             <img src="https://avatars.githubusercontent.com/u/19216598?v=4" width="50;" alt="JackTheMico"/>
             <br />
             <sub><b>Jack Deng</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/JarryShaw">
             <img src="https://avatars.githubusercontent.com/u/15666417?v=4" width="50;" alt="JarryShaw"/>
@@ -635,15 +642,15 @@
             <br />
             <sub><b>Rui Li</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/teamssix">
             <img src="https://avatars.githubusercontent.com/u/49087564?v=4" width="50;" alt="teamssix"/>
             <br />
             <sub><b>TeamsSix</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mophia">
             <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="50;" alt="mophia"/>
@@ -699,27 +706,20 @@
             <br />
             <sub><b>Leryn1122</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/liugezhou">
             <img src="https://avatars.githubusercontent.com/u/29797703?v=4" width="50;" alt="liugezhou"/>
             <br />
             <sub><b>Liugezhou</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/redhat123456">
             <img src="https://avatars.githubusercontent.com/u/57751257?v=4" width="50;" alt="redhat123456"/>
             <br />
             <sub><b>Redhat123456</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/solmp">
-            <img src="https://avatars.githubusercontent.com/u/70046106?v=4" width="50;" alt="solmp"/>
-            <br />
-            <sub><b>Sol</b></sub>
         </a>
     </td>
     <td align="center">
