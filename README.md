@@ -524,6 +524,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/luoxuhai">
+            <img src="https://avatars.githubusercontent.com/u/37284154?v=4" width="50;" alt="luoxuhai"/>
+            <br />
+            <sub><b>Darkce</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/EvanHsieh0415">
+            <img src="https://avatars.githubusercontent.com/u/74277414?v=4" width="50;" alt="EvanHsieh0415"/>
+            <br />
+            <sub><b>Mango Jelly Pudding</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/yesmore">
             <img src="https://avatars.githubusercontent.com/u/89140804?v=4" width="50;" alt="yesmore"/>
             <br />
@@ -552,13 +566,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/luoxuhai">
-            <img src="https://avatars.githubusercontent.com/u/37284154?v=4" width="50;" alt="luoxuhai"/>
-            <br />
-            <sub><b>Darkce</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/dextermallo">
             <img src="https://avatars.githubusercontent.com/u/29012607?v=4" width="50;" alt="dextermallo"/>
             <br />
@@ -571,15 +578,15 @@
             <br />
             <sub><b>Henry Ji</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/JackTheMico">
             <img src="https://avatars.githubusercontent.com/u/19216598?v=4" width="50;" alt="JackTheMico"/>
             <br />
             <sub><b>Jack Deng</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/JarryShaw">
             <img src="https://avatars.githubusercontent.com/u/15666417?v=4" width="50;" alt="JarryShaw"/>
@@ -635,15 +642,15 @@
             <br />
             <sub><b>Rui Li</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/teamssix">
             <img src="https://avatars.githubusercontent.com/u/49087564?v=4" width="50;" alt="teamssix"/>
             <br />
             <sub><b>TeamsSix</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mophia">
             <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="50;" alt="mophia"/>
@@ -699,15 +706,15 @@
             <br />
             <sub><b>Leryn1122</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/liugezhou">
             <img src="https://avatars.githubusercontent.com/u/29797703?v=4" width="50;" alt="liugezhou"/>
             <br />
             <sub><b>Liugezhou</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/redhat123456">
             <img src="https://avatars.githubusercontent.com/u/57751257?v=4" width="50;" alt="redhat123456"/>
@@ -763,15 +770,15 @@
             <br />
             <sub><b>小孙同学</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Peachfart">
             <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="50;" alt="Peachfart"/>
             <br />
             <sub><b>徐同学</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hugh-zhan9">
             <img src="https://avatars.githubusercontent.com/u/49809663?v=4" width="50;" alt="hugh-zhan9"/>
