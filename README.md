@@ -154,6 +154,12 @@
 
 ## I
 
+- [itgoyo](https://github.com/itgoyo)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/itgoyo.png">
+  </details>
+
 <div align="right">
 
 🔝[回到顶部](#目录)
@@ -180,7 +186,7 @@
     <summary>Preview</summary>
     <img src="examples/JesseAtSZ.png">
   </details>
-<div align="right">  
+<div align="right">
 
 🔝[回到顶部](#目录)
 </div>
