@@ -807,13 +807,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/itgoyo">
-            <img src="https://avatars.githubusercontent.com/u/23348551?v=4" width="50;" alt="itgoyo"/>
-            <br />
-            <sub><b>编程吴彦祖 代码蔡徐坤</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars.githubusercontent.com/u/35732922?v=4" width="50;" alt="hoochanlon"/>
             <br />
