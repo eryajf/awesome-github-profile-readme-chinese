@@ -241,6 +241,11 @@
     <summary>Preview</summary>
     <img src="examples/leryn1122.png">
   </details>
+  - [loda13](https://github.com/loda13)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/loda13.png">
+  </details>
 
 <div align="right">
 
