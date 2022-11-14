@@ -741,6 +741,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/loda13">
+            <img src="https://avatars.githubusercontent.com/u/10447318?v=4" width="50;" alt="loda13"/>
+            <br />
+            <sub><b>Tang</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/yongxinz">
             <img src="https://avatars.githubusercontent.com/u/13905325?v=4" width="50;" alt="yongxinz"/>
             <br />
@@ -774,15 +781,15 @@
             <br />
             <sub><b>安志合</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sun0225SUN">
             <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50;" alt="sun0225SUN"/>
             <br />
             <sub><b>小孙同学</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Peachfart">
             <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="50;" alt="Peachfart"/>
@@ -809,6 +816,13 @@
             <img src="https://avatars.githubusercontent.com/u/52521836?v=4" width="50;" alt="WOSHIZHAZHA120"/>
             <br />
             <sub><b>渣渣120</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/itgoyo">
+            <img src="https://avatars.githubusercontent.com/u/23348551?v=4" width="50;" alt="itgoyo"/>
+            <br />
+            <sub><b>编程吴彦祖 代码蔡徐坤</b></sub>
         </a>
     </td>
     <td align="center">
