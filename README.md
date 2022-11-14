@@ -549,6 +549,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/loda13">
+            <img src="https://avatars.githubusercontent.com/u/10447318?v=4" width="50;" alt="loda13"/>
+            <br />
+            <sub><b>Tang</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/yesmore">
             <img src="https://avatars.githubusercontent.com/u/89140804?v=4" width="50;" alt="yesmore"/>
             <br />
@@ -582,15 +589,15 @@
             <br />
             <sub><b>Dexter</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/HenryJi529">
             <img src="https://avatars.githubusercontent.com/u/41288155?v=4" width="50;" alt="HenryJi529"/>
             <br />
             <sub><b>Henry Ji</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/JackTheMico">
             <img src="https://avatars.githubusercontent.com/u/19216598?v=4" width="50;" alt="JackTheMico"/>
@@ -646,15 +653,15 @@
             <br />
             <sub><b>Rea</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/KernelErr">
             <img src="https://avatars.githubusercontent.com/u/45716019?v=4" width="50;" alt="KernelErr"/>
             <br />
             <sub><b>Rui Li</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/teamssix">
             <img src="https://avatars.githubusercontent.com/u/49087564?v=4" width="50;" alt="teamssix"/>
@@ -710,15 +717,15 @@
             <br />
             <sub><b>Lengcharles</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/leryn1122">
             <img src="https://avatars.githubusercontent.com/u/77315435?v=4" width="50;" alt="leryn1122"/>
             <br />
             <sub><b>Leryn1122</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/liugezhou">
             <img src="https://avatars.githubusercontent.com/u/29797703?v=4" width="50;" alt="liugezhou"/>
@@ -738,13 +745,6 @@
             <img src="https://avatars.githubusercontent.com/u/70046106?v=4" width="50;" alt="solmp"/>
             <br />
             <sub><b>Sol</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/loda13">
-            <img src="https://avatars.githubusercontent.com/u/10447318?v=4" width="50;" alt="loda13"/>
-            <br />
-            <sub><b>Tang</b></sub>
         </a>
     </td>
     <td align="center">
