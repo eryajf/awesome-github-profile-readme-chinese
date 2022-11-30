@@ -780,20 +780,13 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/payiz-asj">
-            <img src="https://avatars.githubusercontent.com/u/48379266?v=4" width="50;" alt="payiz-asj"/>
-            <br />
-            <sub><b>夜莺悠吟</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="50;" alt="anzhihe"/>
             <br />
             <sub><b>安志合</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sun0225SUN">
             <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="50;" alt="sun0225SUN"/>
