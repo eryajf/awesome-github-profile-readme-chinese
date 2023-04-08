@@ -192,11 +192,6 @@
     <summary>Preview</summary>
     <img src="examples/JesseAtSZ.png">
   </details>
-- [payiz-asj](https://github.com/payiz-asj)
-  <details>
-    <summary>Preview</summary>
-    <img src="examples/payiz-asj.png">
-  </details>
 - [JS-banana](https://github.com/JS-banana)
   <details>
     <summary>Preview</summary>
@@ -322,6 +317,11 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/pseudoyu.png">
+  </details>
+- [payiz-asj](https://github.com/payiz-asj)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/payiz-asj.png">
   </details>
 
 <div align="right">
