@@ -593,15 +593,15 @@
             <br />
             <sub><b>Cactus</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/dextermallo">
             <img src="https://avatars.githubusercontent.com/u/29012607?v=4" width="50;" alt="dextermallo"/>
             <br />
             <sub><b>Dexter</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/HenryJi529">
             <img src="https://avatars.githubusercontent.com/u/41288155?v=4" width="50;" alt="HenryJi529"/>
@@ -650,7 +650,8 @@
             <br />
             <sub><b>Kai-Chu Chung</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Longhao-Chen">
             <img src="https://avatars.githubusercontent.com/u/35413451?v=4" width="50;" alt="Longhao-Chen"/>
@@ -664,8 +665,7 @@
             <br />
             <sub><b>Rea</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/KernelErr">
             <img src="https://avatars.githubusercontent.com/u/45716019?v=4" width="50;" alt="KernelErr"/>
@@ -707,7 +707,8 @@
             <br />
             <sub><b>Zkeq</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/17661977890">
             <img src="https://avatars.githubusercontent.com/u/43638153?v=4" width="50;" alt="17661977890"/>
@@ -728,8 +729,7 @@
             <br />
             <sub><b>Lengcharles</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/leryn1122">
             <img src="https://avatars.githubusercontent.com/u/77315435?v=4" width="50;" alt="leryn1122"/>
@@ -764,7 +764,8 @@
             <br />
             <sub><b>Sol</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/yongxinz">
             <img src="https://avatars.githubusercontent.com/u/13905325?v=4" width="50;" alt="yongxinz"/>
@@ -792,8 +793,7 @@
             <br />
             <sub><b>夏天</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/payiz-asj">
             <img src="https://avatars.githubusercontent.com/u/48379266?v=4" width="50;" alt="payiz-asj"/>
@@ -821,7 +821,8 @@
             <br />
             <sub><b>徐同学</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hugh-zhan9">
             <img src="https://avatars.githubusercontent.com/u/49809663?v=4" width="50;" alt="hugh-zhan9"/>
@@ -856,8 +857,7 @@
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hua1995116">
             <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="50;" alt="hua1995116"/>
