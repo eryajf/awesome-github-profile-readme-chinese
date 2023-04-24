@@ -386,7 +386,11 @@
     <summary>Preview</summary>
     <img src="examples/solmp.png">
   </details>
-
+- [sheepzh](https://github.com/sheepzh)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/sheepzh.png">
+  </details>
 <div align="right">
 
 🔝[回到顶部](#目录)
