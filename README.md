@@ -274,6 +274,11 @@
   <details>
     <summary>Preview</summary>
     <img src="examples/morlay.png">
+- [Mr-Super-X](https://github.com/Mr-Super-X)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/Mr-Super-X.png">
+  </details>
 
 <div align="right">  </details>
 
