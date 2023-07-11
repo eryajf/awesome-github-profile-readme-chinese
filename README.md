@@ -845,13 +845,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Mr-Super-X">
-            <img src="https://avatars.githubusercontent.com/u/28889327?v=4" width="55;" alt="Mr-Super-X"/>
-            <br />
-            <sub><b>小陈同学</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Peachfart">
             <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="55;" alt="Peachfart"/>
             <br />
@@ -892,8 +885,7 @@
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hua1995116">
             <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="55;" alt="hua1995116"/>
