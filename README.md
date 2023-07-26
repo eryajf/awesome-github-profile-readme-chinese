@@ -701,10 +701,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Visily">
-            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="Visily"/>
+        <a href="https://github.com/ooomi">
+            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="ooomi"/>
             <br />
-            <sub><b>Visily</b></sub>
+            <sub><b>Omiga</b></sub>
         </a>
     </td>
     <td align="center">
@@ -744,6 +744,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/zqqcee">
+            <img src="https://avatars.githubusercontent.com/u/55946653?v=4" width="55;" alt="zqqcee"/>
+            <br />
+            <sub><b>ZqqceE</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/17661977890">
             <img src="https://avatars.githubusercontent.com/u/43638153?v=4" width="55;" alt="17661977890"/>
             <br />
@@ -777,15 +784,15 @@
             <br />
             <sub><b>Liugezhou</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/JS-banana">
             <img src="https://avatars.githubusercontent.com/u/42017491?v=4" width="55;" alt="JS-banana"/>
             <br />
             <sub><b>Oooooohoney</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/redhat123456">
             <img src="https://avatars.githubusercontent.com/u/57751257?v=4" width="55;" alt="redhat123456"/>
@@ -834,20 +841,27 @@
             <br />
             <sub><b>夜莺悠吟</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="55;" alt="anzhihe"/>
             <br />
             <sub><b>安志合</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sun0225SUN">
             <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="55;" alt="sun0225SUN"/>
             <br />
             <sub><b>小孙同学</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Mr-Super-X">
+            <img src="https://avatars.githubusercontent.com/u/28889327?v=4" width="55;" alt="Mr-Super-X"/>
+            <br />
+            <sub><b>小陈同学</b></sub>
         </a>
     </td>
     <td align="center">
@@ -884,7 +898,8 @@
             <br />
             <sub><b>编程吴彦祖 代码蔡徐坤</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars.githubusercontent.com/u/35732922?v=4" width="55;" alt="hoochanlon"/>
