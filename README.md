@@ -587,13 +587,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/yesmore">
-            <img src="https://avatars.githubusercontent.com/u/89140804?v=4" width="55;" alt="yesmore"/>
-            <br />
-            <sub><b>2 Meow </b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Xxianglei">
             <img src="https://avatars.githubusercontent.com/u/26300154?v=4" width="55;" alt="Xxianglei"/>
             <br />
@@ -613,15 +606,15 @@
             <br />
             <sub><b>Cactus</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/dextermallo">
             <img src="https://avatars.githubusercontent.com/u/29012607?v=4" width="55;" alt="dextermallo"/>
             <br />
             <sub><b>Dexter</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/HenryJi529">
             <img src="https://avatars.githubusercontent.com/u/41288155?v=4" width="55;" alt="HenryJi529"/>
@@ -670,15 +663,15 @@
             <br />
             <sub><b>Kai-Chu Chung</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Longhao-Chen">
             <img src="https://avatars.githubusercontent.com/u/35413451?v=4" width="55;" alt="Longhao-Chen"/>
             <br />
             <sub><b>Longhao.Chen</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/reaink">
             <img src="https://avatars.githubusercontent.com/u/45023042?v=4" width="55;" alt="reaink"/>
@@ -701,10 +694,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ooomi">
-            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="ooomi"/>
+        <a href="https://github.com/ukea">
+            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="ukea"/>
             <br />
-            <sub><b>Omiga</b></sub>
+            <sub><b>Christine Charlotte</b></sub>
         </a>
     </td>
     <td align="center">
@@ -727,15 +720,15 @@
             <br />
             <sub><b>Yu ZHANG</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sheepzh">
             <img src="https://avatars.githubusercontent.com/u/19428473?v=4" width="55;" alt="sheepzh"/>
             <br />
             <sub><b>ZHY</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/zkeq">
             <img src="https://avatars.githubusercontent.com/u/62864752?v=4" width="55;" alt="zkeq"/>
@@ -784,15 +777,15 @@
             <br />
             <sub><b>Liugezhou</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/JS-banana">
             <img src="https://avatars.githubusercontent.com/u/42017491?v=4" width="55;" alt="JS-banana"/>
             <br />
             <sub><b>Oooooohoney</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/redhat123456">
             <img src="https://avatars.githubusercontent.com/u/57751257?v=4" width="55;" alt="redhat123456"/>
@@ -841,15 +834,15 @@
             <br />
             <sub><b>夜莺悠吟</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="55;" alt="anzhihe"/>
             <br />
             <sub><b>安志合</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sun0225SUN">
             <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="55;" alt="sun0225SUN"/>
@@ -865,10 +858,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Peachfart">
-            <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="55;" alt="Peachfart"/>
+        <a href="https://github.com/aidbdotsite">
+            <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="55;" alt="aidbdotsite"/>
             <br />
-            <sub><b>徐同学</b></sub>
+            <sub><b>徐先生</b></sub>
         </a>
     </td>
     <td align="center">
@@ -898,15 +891,15 @@
             <br />
             <sub><b>编程吴彦祖 代码蔡徐坤</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars.githubusercontent.com/u/35732922?v=4" width="55;" alt="hoochanlon"/>
             <br />
             <sub><b>菠萝包与蛋奶酥</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hua1995116">
             <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="55;" alt="hua1995116"/>
