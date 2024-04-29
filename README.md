@@ -151,6 +151,11 @@
     <summary>Preview</summary>
     <img src="examples/hua1995116.png">
   </details>
+- [holic-x](https://github.com/holic-x)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/holic-x.png">
+  </details>
 
 <div align="right">
 
