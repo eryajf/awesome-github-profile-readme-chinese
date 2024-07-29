@@ -719,7 +719,7 @@
         <a href="https://github.com/arooe">
             <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="arooe"/>
             <br />
-            <sub><b>arooe</b></sub>
+            <sub><b>Arooe</b></sub>
         </a>
     </td>
     <td align="center">
@@ -927,13 +927,6 @@
             <img src="https://avatars.githubusercontent.com/u/12070073?v=4" width="55;" alt="hua1995116"/>
             <br />
             <sub><b>蓝色的秋风</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/LouisLiu00">
-            <img src="https://avatars.githubusercontent.com/u/63631719?v=4" width="55;" alt="LouisLiu00"/>
-            <br />
-            <sub><b>𝕃𝕠𝕦𝕚𝕤</b></sub>
         </a>
     </td></tr>
 </table>
