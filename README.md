@@ -724,7 +724,7 @@
         <a href="https://github.com/favany">
             <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="favany"/>
             <br />
-            <sub><b>favany</b></sub>
+            <sub><b>Favany</b></sub>
         </a>
     </td>
     <td align="center">
