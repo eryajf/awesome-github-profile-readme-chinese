@@ -721,10 +721,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/arooe">
-            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="arooe"/>
+        <a href="https://github.com/favany">
+            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="favany"/>
             <br />
-            <sub><b>Arooe</b></sub>
+            <sub><b>favany</b></sub>
         </a>
     </td>
     <td align="center">
@@ -885,10 +885,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/aidbdotsite">
-            <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="55;" alt="aidbdotsite"/>
+        <a href="https://github.com/iamxudada">
+            <img src="https://avatars.githubusercontent.com/u/56887777?v=4" width="55;" alt="iamxudada"/>
             <br />
-            <sub><b>徐先生</b></sub>
+            <sub><b>徐大大</b></sub>
         </a>
     </td>
     <td align="center">
