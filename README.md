@@ -712,10 +712,24 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/RoyRao2333">
+            <img src="https://avatars.githubusercontent.com/u/31413093?v=4" width="55;" alt="RoyRao2333"/>
+            <br />
+            <sub><b>Roy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/KernelErr">
             <img src="https://avatars.githubusercontent.com/u/45716019?v=4" width="55;" alt="KernelErr"/>
             <br />
             <sub><b>Rui Li</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/510208">
+            <img src="https://avatars.githubusercontent.com/u/107909497?v=4" width="55;" alt="510208"/>
+            <br />
+            <sub><b>SamHacker</b></sub>
         </a>
     </td>
     <td align="center">
@@ -726,10 +740,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/favany">
-            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="favany"/>
+        <a href="https://github.com/YagoLeo">
+            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="YagoLeo"/>
             <br />
-            <sub><b>Favany</b></sub>
+            <sub><b>Yago Leo</b></sub>
         </a>
     </td>
     <td align="center">
@@ -738,7 +752,8 @@
             <br />
             <sub><b>WangChuanli</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/YaoSiQian">
             <img src="https://avatars.githubusercontent.com/u/29835749?v=4" width="55;" alt="YaoSiQian"/>
@@ -752,20 +767,12 @@
             <br />
             <sub><b>Yu ZHANG</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sheepzh">
             <img src="https://avatars.githubusercontent.com/u/19428473?v=4" width="55;" alt="sheepzh"/>
             <br />
             <sub><b>ZHY</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zkeq">
-            <img src="https://avatars.githubusercontent.com/u/62864752?v=4" width="55;" alt="zkeq"/>
-            <br />
-            <sub><b>Zkeq</b></sub>
         </a>
     </td>
     <td align="center">
@@ -802,15 +809,15 @@
             <br />
             <sub><b>Leryn1122</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/liugezhou">
             <img src="https://avatars.githubusercontent.com/u/29797703?v=4" width="55;" alt="liugezhou"/>
             <br />
             <sub><b>Liugezhou</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/JS-banana">
             <img src="https://avatars.githubusercontent.com/u/42017491?v=4" width="55;" alt="JS-banana"/>
@@ -859,15 +866,15 @@
             <br />
             <sub><b>夏天</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/payiz-asj">
             <img src="https://avatars.githubusercontent.com/u/48379266?v=4" width="55;" alt="payiz-asj"/>
             <br />
             <sub><b>夜莺悠吟</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/anzhihe">
             <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="55;" alt="anzhihe"/>
@@ -916,15 +923,15 @@
             <br />
             <sub><b>渣渣120</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/itgoyo">
             <img src="https://avatars.githubusercontent.com/u/23348551?v=4" width="55;" alt="itgoyo"/>
             <br />
             <sub><b>编程吴彦祖 代码蔡徐坤</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars.githubusercontent.com/u/35732922?v=4" width="55;" alt="hoochanlon"/>
