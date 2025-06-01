@@ -564,6 +564,11 @@
     <summary>Preview</summary>
     <img src="../awesome-github-profile-readme-chinese/examples/17661977890.png">
   </details>
+- [SamHacker](https://github.com/510208)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/SamHacker.png">
+  </details>
 
 <div align="right">
 
