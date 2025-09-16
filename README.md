@@ -745,10 +745,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/YagoLeo">
-            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="YagoLeo"/>
+        <a href="https://github.com/YagoLiu">
+            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="YagoLiu"/>
             <br />
-            <sub><b>Yago Leo</b></sub>
+            <sub><b>YagoLiu</b></sub>
         </a>
     </td>
     <td align="center">
