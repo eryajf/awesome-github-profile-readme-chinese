@@ -703,13 +703,6 @@
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/LayorX">
-            <img src="https://avatars.githubusercontent.com/u/224418502?v=4" width="55;" alt="LayorX"/>
-            <br />
-            <sub><b>LayorX</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Longhao-Chen">
             <img src="https://avatars.githubusercontent.com/u/35413451?v=4" width="55;" alt="Longhao-Chen"/>
             <br />
@@ -757,15 +750,15 @@
             <br />
             <sub><b>YagoLiu</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/iwangchuanli">
             <img src="https://avatars.githubusercontent.com/u/39828165?v=4" width="55;" alt="iwangchuanli"/>
             <br />
             <sub><b>WangChuanli</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/YaoSiQian">
             <img src="https://avatars.githubusercontent.com/u/29835749?v=4" width="55;" alt="YaoSiQian"/>
@@ -814,15 +807,15 @@
             <br />
             <sub><b>Lengcharles</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/leryn1122">
             <img src="https://avatars.githubusercontent.com/u/77315435?v=4" width="55;" alt="leryn1122"/>
             <br />
             <sub><b>Leryn1122</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/liugezhou">
             <img src="https://avatars.githubusercontent.com/u/29797703?v=4" width="55;" alt="liugezhou"/>
@@ -871,15 +864,15 @@
             <br />
             <sub><b>卢东东</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SummerSec">
             <img src="https://avatars.githubusercontent.com/u/47944478?v=4" width="55;" alt="SummerSec"/>
             <br />
             <sub><b>夏天</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/payiz-asj">
             <img src="https://avatars.githubusercontent.com/u/48379266?v=4" width="55;" alt="payiz-asj"/>
@@ -928,15 +921,15 @@
             <br />
             <sub><b>梦曦·花已落</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/WOSHIZHAZHA120">
             <img src="https://avatars.githubusercontent.com/u/52521836?v=4" width="55;" alt="WOSHIZHAZHA120"/>
             <br />
             <sub><b>渣渣120</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/itgoyo">
             <img src="https://avatars.githubusercontent.com/u/23348551?v=4" width="55;" alt="itgoyo"/>
