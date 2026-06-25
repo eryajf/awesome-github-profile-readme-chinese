@@ -698,7 +698,7 @@
         <a href="https://github.com/leecason722">
             <img src="https://avatars.githubusercontent.com/u/285373345?v=4" width="55;" alt="leecason722"/>
             <br />
-            <sub><b>leecason722</b></sub>
+            <sub><b>Leecason722</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -748,7 +748,7 @@
         <a href="https://github.com/culome">
             <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="culome"/>
             <br />
-            <sub><b>culome</b></sub>
+            <sub><b>Culome</b></sub>
         </a>
     </td>
     <td align="center">
