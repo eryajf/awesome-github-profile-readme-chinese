@@ -624,10 +624,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Xxianglei">
-            <img src="https://avatars.githubusercontent.com/u/26300154?v=4" width="55;" alt="Xxianglei"/>
+        <a href="https://github.com/Vran9">
+            <img src="https://avatars.githubusercontent.com/u/26300154?v=4" width="55;" alt="Vran9"/>
             <br />
-            <sub><b>Alex</b></sub>
+            <sub><b>Leo</b></sub>
         </a>
     </td>
     <td align="center">
@@ -695,10 +695,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Leecason">
-            <img src="https://avatars.githubusercontent.com/u/17562078?v=4" width="55;" alt="Leecason"/>
+        <a href="https://github.com/leecason722">
+            <img src="https://avatars.githubusercontent.com/u/285373345?v=4" width="55;" alt="leecason722"/>
             <br />
-            <sub><b>Jiaxun Li</b></sub>
+            <sub><b>leecason722</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -745,10 +745,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/YagoLiu">
-            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="YagoLiu"/>
+        <a href="https://github.com/culome">
+            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="culome"/>
             <br />
-            <sub><b>YagoLiu</b></sub>
+            <sub><b>culome</b></sub>
         </a>
     </td>
     <td align="center">
@@ -881,13 +881,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/anzhihe">
-            <img src="https://avatars.githubusercontent.com/u/19191096?v=4" width="55;" alt="anzhihe"/>
-            <br />
-            <sub><b>安志合</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/sun0225SUN">
             <img src="https://avatars.githubusercontent.com/u/79169717?v=4" width="55;" alt="sun0225SUN"/>
             <br />
@@ -928,15 +921,15 @@
             <br />
             <sub><b>渣渣120</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/itgoyo">
             <img src="https://avatars.githubusercontent.com/u/23348551?v=4" width="55;" alt="itgoyo"/>
             <br />
             <sub><b>编程吴彦祖 代码蔡徐坤</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hoochanlon">
             <img src="https://avatars.githubusercontent.com/u/35732922?v=4" width="55;" alt="hoochanlon"/>
