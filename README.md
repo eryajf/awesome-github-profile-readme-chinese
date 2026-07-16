@@ -174,6 +174,11 @@
     <summary>Preview</summary>
     <img src="examples/itgoyo.png">
   </details>
+- [IvanMurzak](https://github.com/IvanMurzak)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/IvanMurzak.png">
+  </details>
 
 <div align="right">
 
