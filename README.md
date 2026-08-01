@@ -651,8 +651,8 @@
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/dextermallo">
-            <img src="https://avatars.githubusercontent.com/u/29012607?v=4" width="55;" alt="dextermallo"/>
+        <a href="https://github.com/dexter-ys">
+            <img src="https://avatars.githubusercontent.com/u/29012607?v=4" width="55;" alt="dexter-ys"/>
             <br />
             <sub><b>Dexter</b></sub>
         </a>
@@ -750,10 +750,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/culome">
-            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="culome"/>
+        <a href="https://github.com/eliotleu">
+            <img src="https://avatars.githubusercontent.com/u/92929085?v=4" width="55;" alt="eliotleu"/>
             <br />
-            <sub><b>Culome</b></sub>
+            <sub><b>Eliot Leu</b></sub>
         </a>
     </td>
     <td align="center">
